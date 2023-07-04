@@ -1,0 +1,16 @@
+<h2 Class="Product_tag">Automatic Washer</h2>
+<p>Series Top Loading(HS 120-B1978 S9)</p>
+<h2 Class="Product_tag">Speacial Washer </h2>
+<p>Series Top Loading (HS150-B1978 S9)</p>
+<h2 Class="Product_tag">2 in 1 </h2>
+<p>Series Front Loading(HWM 100-B14876)</p>
+<h2 Class="Product_tag">Washer with Drayer</h2>
+<p>Series Front Loading(HWM 80-B14876)</p>
+<h2 Class="Product_tag">Fast Washer</h2>
+<p>Series Top Loading(HWM 150-866)</p>
+<h2 Class="Product_tag">Washer with Drayer</h2>
+<p>Series Top Loading(HWM85-7288)</p>
+<h2 Class="Product_tag">Automatic Washer</h2>
+<p>Series Top Loading(HWM 75-918)</p>
+<h2 Class="Product_tag">Washer MD-451</h2>
+<p>Series Top Loading(HWM 90-1789)</p>

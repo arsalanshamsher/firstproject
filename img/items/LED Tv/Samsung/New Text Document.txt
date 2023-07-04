@@ -1,0 +1,16 @@
+<h2 class="Product_Tag">MD_S1</h2>
+<p>65" QLED 4K Q60B</p>
+<h2 class="Product_Tag">MD_S2</h2>
+<p>43" T5300 Full HD Flat Smart TV</p>
+<h2 class="Product_Tag">HR_540</h2>
+<p>55" QLED 4K Q70B</p>
+<h2 class="Product_Tag">HF_143k</h2>
+<p>65" QLED 4K Q80B</p>
+<h2 class="Product_Tag">SH-143z</h2>
+<p>55" Crystal UHD BU8000</p>
+<h2 class="Product_Tag">SM-134C</h2>
+<p>QN900A Neo QLED 8K Smart TV (2021)</p>
+<h2 class="Product_Tag">HF-143T</h2>
+<p>QN85A Neo QLED 4K Smart TV</p>
+<h2 class="Product_Tag">HFM-50</h2>
+<p>AU7000 UHD 4K Smart TV</p>

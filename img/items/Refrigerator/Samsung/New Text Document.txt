@@ -1,0 +1,17 @@
+<h2 class="Product_Tag">RT29K5030S8</h2>
+<p>ES Top Freezer with Twin Cooling Plus™, 299L High</p>
+<h2 class="Product_Tag">RT38T5Y30S8</h2>
+<p>SG Top Freezer with Twin Cooling Plus™, Yogurt Maker, 375L</p>
+<h2 class="Product_Tag">RF49A5202B1</h2>
+<p>LV French Door Refrigerator with Water Dispenser, 470L</p>
+<h2 class="Product_Tag">RS50N3C13S8</h2>
+<p>PK SBS with All-around Cooling, DIT, 490L Full Freeze</p>
+<h2 class="Product_Tag">RZ32M72407F</h2>
+<p>1Door with Convertible Mode, Lamb Freeze, 315L</p>
+<h2 class="Product_Tag">RS50N3913BC</h2>
+<p>EU with Home Bar and All-around Cooling, 501L</p>
+<h2 class="Product_Tag">RT29K5110SP</h2>
+<p>SG Top Freezer Twin Cooling Plus™, 290L with best option</p>
+<h2 class="Product_Tag">RZ32M71207F</h2>
+<p>SG Tall 1 Door with No Frost, 315L Automatic Cooling</p>
+

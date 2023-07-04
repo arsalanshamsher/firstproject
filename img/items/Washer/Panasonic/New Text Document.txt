@@ -1,0 +1,16 @@
+<h2 Class="Product_Tag">NA-S956FR1</h2>
+<p>9.5/6 Kg Gentle Dry & Hygienic Front-loading Washer Dryer</p>
+<h2 Class="Product_Tag">NA-S056FR1</h2>
+<p>10.5/6 Kg Gentle Dry & Hygienic Front-loading Washer Dryer</p>
+<h2 Class="Product_Tag">NA-S180X2</h2>
+<p>18/10 Kg Front Load Washer Dryer </p>
+<h2 Class="Product_Tag">NA-S128M2</h2>
+<p>12/8 Kg Washer & Dryer</p>
+<h2 Class="Product_Tag">NA-S107M2</h2>
+<p>10/7 Kg Washer & Dryer</p>
+<h2 Class="Product_Tag">NA-S086M3</h2>
+<p>8/6 Kg Washer & Dryer</p>
+<h2 Class="Product_Tag">NA-149MG4</h2>
+<p>9 Kg Front Load Washer</p>
+<h2 Class="Product_Tag">NA-128XB1</h2>
+<p>8 Kg Front Load Washer</p>

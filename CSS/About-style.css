@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+
+*{
+    font-family: 'Josefin Sans', sans-serif;
+}
+/* .story_div{
+
+    box-shadow: 0px 0px 10px;
+} */
+.Story_heading{
+    font-family: 'Josefin Sans', sans-serif;
+       border-bottom: 1px solid black;
+    padding: 0 0 10px 0;
+}
+.Stroy_Para{
+    text-align: justify;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 120%;
+}
+/* Client Card Start  */
+.Client{
+    margin: 50px 0 0 0;
+}
+.flip-card {
+    background-color: transparent;
+    width: 300px;
+    height: 300px;
+    perspective: 1000px;
+  }
+  
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+  
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    border-radius: 20px;
+  }
+  
+  .flip-card-front {
+    background-color: #bbb;
+    color: black;
+    border-radius: 20px;
+  }
+  
+  .flip-card-back {
+    background-color: #000000;
+    color: white;
+    transform: rotateY(180deg);
+    padding: 20px 10px;
+  }
+  .flip-card-back :nth-child(2) {
+    text-decoration: underline;
+    color: #ffc108;
+  }
+/* Client Card End  */
+
+@media screen and (max-width:600px) {
+    .story_div{
+        width: 100%;
+       
+    }
+    .Stroy_Para{
+        font-size: 100%;
+    }    
+}

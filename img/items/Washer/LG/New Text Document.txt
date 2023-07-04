@@ -1,0 +1,16 @@
+<h2 Class="Product_Tag">LG MD-50</h2>
+<p>LG front loading Washer, 8 Kg, Bigger Capacity, AI DD, Steam, ThinQ, White</p>
+<h2 Class="Product_Tag">LG MD-149</h2>
+<p>LG front loading Washer, 8 Kg, Bigger Capacity, AI DD, Steam, ThinQ, Silver</p>
+<h2 Class="Product_Tag">LG MD-210</h2>
+<p>LG Vivace Washer, 9 Kg, Bigger Capacity, AI DD, Steam, ThinQ</p>
+<h2 Class="Product_Tag">LG MD-641</h2>
+<p>LG Vivace Washer, 9 Kg, Bigger Capacity, AI DD, Steam, ThinQ</p>
+<h2 Class="Product_Tag">LG MD-459</h2>
+<p>15 KG Washing Machine with AI DD™ With Special Drayer</p>
+<h2 Class="Product_Tag">LG MD-321</h2>
+<p>LG Front Load Washing Machine with Stain Care, 8kg White Color</p>
+<h2 Class="Product_Tag">LG HF-50</h2>
+<p>Single Unit Front Load 21/16kg LG WashTower™ with Centre Control™,  White color</p>
+<h2 Class="Product_Tag">LG MD-641</h2>
+<p>Single Unit Front Load 21/16kg LG WashTower™ with Centre Control™,  Black Steel color</p>

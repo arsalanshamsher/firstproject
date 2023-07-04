@@ -1,0 +1,16 @@
+<h2 class="Product_Tag">NR-BS703</h2>
+<p>Premium Side by Side with Surround Cooling Technology</p>
+<h2 class="Product_Tag">NR-BS704</h2>
+<p>Premium Side by Side with Surround Cooling Technology</p>
+<h2 class="Product_Tag">NR-BS733</h2>
+<p>Premium Side By Side with Surround Cooling Technology</p>
+<h2 class="Product_Tag">NR-BS700</h2>
+<p>Side by Side Refrigerator And Full Auto Cooling</p>
+<h2 class="Product_Tag">NR-BS702</h2>
+<p>Side by Side Refrigerator And Full Auto Cooling</p>
+<h2 class="Product_Tag">NR-BC613</h2>
+<p>Big Capacity Top Freezer Refrigerator With Best Option</p>
+<h2 class="Product_Tag">NR-BC833VS</h2>
+<p>A refrigerator that is perfect for a healthy lifestyle.</p>
+<h2 class="Product_Tag">NR-BC752DS</h2>
+<p>Top Freezer Refrigerator with Water Dispenser ,Excellent Workinig</p>

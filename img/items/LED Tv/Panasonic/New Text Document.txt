@@ -1,0 +1,17 @@
+<h2 class="Product_Tag">TX65CX700B </h2>
+<p>Panasonic 65 Inch 4K Viera Smart LED TV </p>
+<h2 class="Product_Tag">TH32GS506M</h2>
+<p>Panasonic 32 Inch LED TV </p>
+<h2 class="Product_Tag">TH32GS506M</h2>
+<p>Panasonic 32 Inch HD LED TV </p>
+<h2 class="Product_Tag">TH32D310M</h2>
+<p>Panasonic 32 Inch HD LED TV </p>
+<h2 class="Product_Tag">TH49D310M</h2>
+<p>Panasonic 49 Inch FHD LED TV </p>
+<h2 class="Product_Tag">TH49D310M</h2>
+<p>Panasonic 49 Inch FHD LED TV </p>
+<h2 class="Product_Tag">TH55DS630M</h2>
+<p>55 Inch FHD Smart LED TV </p>
+<h2 class="Product_Tag">TC65DX700 </h2>
+<p>Panasonic 65 Inch 4K UHD Smart LED TV </p>
+    

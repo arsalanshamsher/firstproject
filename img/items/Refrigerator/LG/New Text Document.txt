@@ -1,0 +1,16 @@
+<h2 Class="Product_Tag">LG-T20</h2>
+<p>LG 2023 Top Mount Fridge, 509 Litre, Silver color</p>
+<h2 Class="Product_Tag">G-41Pro</h2>
+<p>LG New Side by Side Refrigerator, Total No Frost.</p>
+<h2 Class="Product_Tag">LG-50Rt</h2>
+<p>LG Top Mount Fridge, 395L, Graphite Steel</p>
+<h2 Class="Product_Tag">LG-HF70</h2>
+<p>LG Top Mount Fridge, 395L, Platinum Silver</p>
+<h2 Class="Product_Tag">LG-250M</h2>
+<p>LG Top Freezer, Smart Inverter, 315L</p>
+<h2 Class="Product_Tag">LG-41Z</h2>
+<p>LG Top Mount Fridge, Smart Inverter, 315L, Silver</p>
+<h2 Class="Product_Tag">G-50Rz</h2>
+<p>LG Double Door Fridge 643L, Dark Graphite</p>
+<h2 Class="Product_Tag">G-981Tz</h2>
+<p>LG Top Mount Fridge, Smart Inverter, 375L, Silver</p>

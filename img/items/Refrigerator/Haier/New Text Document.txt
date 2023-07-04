@@ -1,0 +1,16 @@
+<h2 class="Product_Tag">Smart Refrigerator</h2>
+<p>HRF-758S</p>
+<h2 class="Product_Tag">SBS</h2>
+<p>HRF-748KG</p>
+<h2 class="Product_Tag">SBS</h2>
+<p>HRF-522IBS</p>
+<h2 class="Product_Tag">HM</h2>
+<p>HRF-622IBG</p>
+<h2 class="Product_Tag">HMF</h2>
+<p>HRF-622ICG</p>
+<h2 class="Product_Tag">SMH</h2>
+<p>HRF-622IBS</p>
+<h2 class="Product_Tag">T-Door</h2>
+<p>T-Door</p>
+<h2 class="Product_Tag">T-Door</h2>
+<p>HRF-578TBG</p>

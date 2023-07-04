@@ -1,0 +1,8 @@
+1.Yunding Inverter(HPU-24HYD/012DC(G))
+2.Duzin Inverter(HPU-24HDZ/012DC(G))
+3.Puri Inverter(HSU-18HJ/012USDC(G))
+4.Puri Inverter(HSU-12HJ/012USDC(G))
+5.Thunder Inverter(HSU-18HPM/012SDC(W)-T3)
+6.Thunder Inverter(HSU-12HPM/012SDC(W)-T3)
+7.Pearl Inverter(HSU-18HFP/WUSDC (B))
+8.Pearl Inverter(HSU-18HFP/WUSDC (G))
